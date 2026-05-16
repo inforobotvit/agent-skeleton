@@ -58,7 +58,7 @@ Pull requests приветствуются. Если нашёл, что улуч
 
 Виталий Турьев — Lead Product Designer, серия статей про production-агенты в 2026.
 
-- Хабр: [статьи](https://habr.com/ru/users/vitturov/)
+- Хабр: [VitTurov](https://habr.com/ru/users/VitTurov/)
 - Telegram: [«Я и мой друг робот»](https://t.me/mewithrobot)
 
 ## Лицензия
